@@ -1,0 +1,17 @@
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\BogTestProject.deps.json
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\BogTestProject.runtimeconfig.json
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\BogTestProject.runtimeconfig.dev.json
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\BogTestProject.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\BogTestProject.pdb
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\Bog.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\bin\Debug\netcoreapp2.1\Bog.pdb
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.csprojAssemblyReference.cache
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.csproj.CoreCompileInputs.cache
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.AssemblyInfoInputs.cache
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.AssemblyInfo.cs
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.csproj.CopyComplete
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\BogTestProject\obj\Debug\netcoreapp2.1\BogTestProject.pdb
